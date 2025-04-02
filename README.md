@@ -1,5 +1,13 @@
 <h3 align="center">3rd year Engineering and Data Analysis student</h3>
+
 ## 3rd year Engineering and Data Analysis student
+
+### Interests
+##### Data Analysis
+##### Data Visualization
+##### Machine Learning
+##### AI
+##### Math
 
 ### Languages & Tools  
 <p align="left">

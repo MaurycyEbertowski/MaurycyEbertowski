@@ -1,6 +1,7 @@
 <h3 align="center">3rd year Engineering and Data Analysis student</h3>
+## 3rd year Engineering and Data Analysis student
 
-## ⚙️ Languages & Tools  
+### Languages & Tools  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,r,postgres,mysql,c,cpp" />
@@ -15,7 +16,7 @@
 
 </p>
 
-## 📊 GitHub Stats 
+### Stats 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurycyebertowski&show_icons=true&locale=en&layout=compact" alt="maurycyebertowski" /></p>

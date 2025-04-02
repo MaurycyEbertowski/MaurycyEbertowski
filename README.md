@@ -4,10 +4,10 @@
 
 ### Interests
 - Data Analysis
-##### Data Visualization
-##### Machine Learning
-##### AI
-##### Math
+- Data Visualization
+- Machine Learning
+- AI
+- Math
 
 ### Languages & Tools  
 <p align="left">

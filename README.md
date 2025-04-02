@@ -3,7 +3,7 @@
 ## 3rd year Engineering and Data Analysis student
 
 ### Interests
-##### Data Analysis
+- Data Analysis
 ##### Data Visualization
 ##### Machine Learning
 ##### AI

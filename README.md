@@ -20,6 +20,9 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </a>
+<a href="https://scipy.org/">
+  <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40", height="40" alt="Scipy"/>
+  </a>
 
 
 </p>

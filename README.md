@@ -1,6 +1,6 @@
 
 
-## 3rd year Engineering and Data Analysis student
+## 4th year Engineering and Data Analysis student
 
 ### Interests
 - Data Analysis

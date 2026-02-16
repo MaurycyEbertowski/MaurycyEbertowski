@@ -1,13 +1,10 @@
 
 
-## 4th year Engineering and Data Analysis student
-
+## Data Science graduate
 ### Interests
 - Data Analysis
 - Data Visualization
 - Machine Learning
-- AI
-- Math
 
 ### Languages & Tools  
 <p align="left">

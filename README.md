@@ -3,6 +3,7 @@
 ## Data Science graduate
 ### Interests
 - Data Analysis
+- Data Modelling
 - Data Visualization
 - Machine Learning
 
